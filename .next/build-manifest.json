@@ -1,0 +1,35 @@
+{
+  "devFiles": [],
+  "pages": {
+    "/_error": [
+      "static/runtime/webpack-42652fa8b82c329c0559.js",
+      "static/chunks/commons.c1bc6f2e7931c354d8cf.js",
+      "static/runtime/main-a343632adbbf426ab658.js"
+    ],
+    "/channel": [
+      "static/runtime/webpack-42652fa8b82c329c0559.js",
+      "static/chunks/commons.c1bc6f2e7931c354d8cf.js",
+      "static/runtime/main-a343632adbbf426ab658.js"
+    ],
+    "/index": [
+      "static/runtime/webpack-42652fa8b82c329c0559.js",
+      "static/chunks/commons.c1bc6f2e7931c354d8cf.js",
+      "static/runtime/main-a343632adbbf426ab658.js"
+    ],
+    "/podcast": [
+      "static/runtime/webpack-42652fa8b82c329c0559.js",
+      "static/chunks/commons.c1bc6f2e7931c354d8cf.js",
+      "static/runtime/main-a343632adbbf426ab658.js"
+    ],
+    "/_app": [
+      "static/runtime/webpack-42652fa8b82c329c0559.js",
+      "static/chunks/commons.c1bc6f2e7931c354d8cf.js",
+      "static/runtime/main-a343632adbbf426ab658.js"
+    ],
+    "/": [
+      "static/runtime/webpack-42652fa8b82c329c0559.js",
+      "static/chunks/commons.c1bc6f2e7931c354d8cf.js",
+      "static/runtime/main-a343632adbbf426ab658.js"
+    ]
+  }
+}
